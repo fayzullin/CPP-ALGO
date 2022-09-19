@@ -1,2 +1,5 @@
 # CPP-ALGO
-Additional chapters of C++ and algorithms
+Курс : Дополнительные главы С++ и алгоритмов
+Студент : Файзуллин Музаффар Рустамович
+Группа : Б05-908
+Email : fayzullin.mr@phystech.edu
