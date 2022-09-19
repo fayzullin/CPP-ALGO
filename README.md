@@ -1,2 +1,2 @@
 # CPP-ALGO
-Additional of C++ and algorithms
+Additional chapters of C++ and algorithms
